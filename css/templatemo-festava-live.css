@@ -114,7 +114,7 @@ button {
 
 a {
   display: inline-block;
-  color: var(--primary-color);
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
@@ -277,7 +277,7 @@ strong {
 .nav-tabs .nav-link.active h5,
 .nav-tabs .nav-link:focus h5, 
 .nav-tabs .nav-link:hover h5 {
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 
