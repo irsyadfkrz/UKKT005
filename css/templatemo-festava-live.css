@@ -4,7 +4,7 @@ TemplateMo 583 Festava Live
 
 https://templatemo.com/tm-583-festava-live
 
-*/
+*/e
 
 
 /*---------------------------------------
@@ -350,7 +350,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-color: var(--primary-color);
+  background-color: var(--blue-color);
   padding-top: 12px;
   padding-bottom: 12px;
 }
